@@ -1,0 +1,6 @@
+[package]
+name = "local-llm-privacy-guard"
+version = "0.1.0"
+edition = "2021"
+description = "Rust tool to redact PII from prompts before they are sent to local or cloud LLMs."
+license = "MIT"
